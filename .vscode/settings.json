@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "License.md": true,
+    ".gitignore": true
+  },
+  "telemetry.feedback.enabled": false
+}
