@@ -1,2 +1,1 @@
-# Star Citizen VR Tool
- 
+# starcitizen-guia-hotas
